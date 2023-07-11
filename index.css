@@ -1,0 +1,16 @@
+#third {
+    color:aqua;
+    border:10px solid red;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: medium;
+}
+#title {
+    text-align: center;
+    color: brown;
+}
+.bro {
+    text-align: center;
+}
+
